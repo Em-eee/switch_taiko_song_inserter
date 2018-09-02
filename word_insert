@@ -1,0 +1,422 @@
+{
+	"orival":{
+		"name":"Oh! Rival",
+		"original_name":"オー！リバル",
+		"bottom_text":"Porno Graffiti"
+	},
+	"dora36":{
+		"name":"360°",
+		"original_name":"３６０°",
+		"bottom_text":"miwa"
+	},
+	"ola":{
+		"name":"OLA!!",
+		"original_name":"",
+		"bottom_text":"Yuzu"
+	},
+	"mgirlf":{
+		"name":"Muteki no Girfriend",
+		"original_name":"無敵のガールフレンド",
+		"bottom_text":"Sakurako Ohara"
+	},
+	"anakoi":{
+		"name":"Anata ni Koi wo Shite Mimashita",
+		"original_name":"あなたに恋をしてみました",
+		"bottom_text":"chay"
+	},
+	"kekkai":{
+		"name":"Hello, world!",
+		"original_name":"",
+		"bottom_text":"BUMP OF CHICKEN"
+	},
+	"spectr":{
+		"name":"Netsujou no Spectrum",
+		"original_name":"熱情のスペクトラム",
+		"bottom_text":"Ikimono Gakari"
+	},
+	"aiwoko":{
+		"name":"Ai o Komete Hanataba o",
+		"original_name":"愛をこめて花束を",
+		"bottom_text":"Superfly"
+	},
+	"aiuta":{
+		"name":"Ai Uta",
+		"original_name":"愛唄",
+		"bottom_text":"GReeeeN"
+	},
+	"hkdays":{
+		"name":"Hard Knock Days",
+		"original_name":"",
+		"bottom_text":"From \" One Piece \""
+	},
+	"ansa22":{
+		"name":"Jiriki Hongan Revolution",
+		"original_name":"自力本願レボリューション",
+		"bottom_text":"From \" Assassination Classroom \""
+	},
+	"sdashs":{
+		"name":"START DASH SENSATION",
+		"original_name":"",
+		"bottom_text":"From \" Aikatsu! \""
+	},
+	"worldt":{
+		"name":"Ashita no Hikari",
+		"original_name":"アシタノヒカリ",
+		"bottom_text":"From \" World Trigger \""
+	},
+	"dayday":{
+		"name":"DAY×DAY",
+		"original_name":"",
+		"bottom_text":"From \" Gintama \""
+	},
+	"nrtkaz":{
+		"name":"Kaze",
+		"original_name":"風",
+		"bottom_text":"From \" Naruto Shippuden \""
+	},
+	"pripar":{
+		"name":"Dream Parade",
+		"original_name":"ドリームパレード",
+		"bottom_text":"From \" PuriPara \""
+	},
+	"pkgtbb":{
+		"name":"Getta Banban",
+		"original_name":"ゲッタバンバン",
+		"bottom_text":"From \" Pokémon XY \""
+	},
+	"lapis":{
+		"name":"Lapis Lazuli",
+		"original_name":"ラピスラズリ",
+		"bottom_text":"From \" The Heroic Legend of Arslan \""
+	},
+	"babstp":{
+		"name":"Believe in yourself",
+		"original_name":"",
+		"bottom_text":"From \" baby steps \""
+	},
+	"prpri9":{
+		"name":"Miracle Go! Princess PreCure",
+		"original_name":"Miracle Ｇｏ！プリンセスプリキュア",
+		"bottom_text":""
+	},
+	"loghor":{
+		"name":"database",
+		"original_name":"",
+		"bottom_text":"From \" Log Horizon \""
+	},
+	"kjoker":{
+		"name":"Kaitou Miracle Shounen Boy",
+		"original_name":"怪盗ミラクル少年ボーイ",
+		"bottom_text":"Mysterious Joker"
+	},
+	"attaka":{
+		"name":"Atatakai'n Dakara♪",
+		"original_name":"あったかいんだからぁ♪",
+		"bottom_text":"Kumamushi"
+	},
+	"lassen":{
+		"name":"Lassen Gorelai",
+		"original_name":"ラッスンゴレライ",
+		"bottom_text":"8.6 Second Bazooka"
+	},
+	"rainmk":{
+		"name":"RAINMAKER",
+		"original_name":"",
+		"bottom_text":"New Japan Pro Wrestling Kazuchika Okada Entrance Theme"
+	},
+	"mikukp":{
+		"name":"Karakuri Pierrot",
+		"original_name":"からくりピエロ",
+		"bottom_text":"40mP feat. HATSUNE MIKU"
+	},
+	"rlnted":{
+		"name":"Tokyo Teddy Bear",
+		"original_name":"東京テディベア",
+		"bottom_text":"Neru feat. KAGAMINE RIN"
+	},
+	"gumihk":{
+		"name":"Houkago Stride",
+		"original_name":"放課後ストライド",
+		"bottom_text":"Last Note."
+	},
+	"imibla":{
+		"name":"IMITATION BLACK",
+		"original_name":"",
+		"bottom_text":"SCL Project (natsuP) feat.Vana N'Ice"
+	},
+	"lukfev":{
+		"name":"Luka Luka Night Fever",
+		"original_name":"ルカルカ★ナイトフィーバー",
+		"bottom_text":"samfree feat. LUKA"
+	},
+	"msspln":{
+		"name":"M.S.S.Planet",
+		"original_name":"",
+		"bottom_text":"M.S.S. Project"
+	},
+	"zolbdl":{
+		"name":"BORDERLESS",
+		"original_name":"",
+		"bottom_text":"ZOLA PROJECT"
+	},
+	"gumico":{
+		"name":"Kohi no Aji to",
+		"original_name":"珈琲の味と",
+		"bottom_text":"Harunaba feat. GUMI"
+	},
+	"daiku":{
+		"name":"Ninth Symphony",
+		"original_name":"第九交響曲",
+		"bottom_text":"Beethoven"
+	},
+	"clsblr":{
+		"name":"Bolero",
+		"original_name":"ボレロ",
+		"bottom_text":"Ravel"
+	},
+	"clsarl":{
+		"name":"L'Arlésienne",
+		"original_name":"アルルの女",
+		"bottom_text":"Bizet"
+	},
+	"clsmas":{
+		"name":"Die Forelle",
+		"original_name":"ます",
+		"bottom_text":""
+	},
+	"clsmao":{
+		"name":"Maow",
+		"original_name":"まおぅ",
+		"bottom_text":"feat. Yuwa (pLumsonic)"
+	},
+	"clsdok":{
+		"name":"Alborada del Gracioso",
+		"original_name":"道化師の朝の歌",
+		"bottom_text":"Ravel"
+	},
+	"clstaj":{
+		"name":"Symphonic Medley No.1",
+		"original_name":"シンフォニックメドレー第1番",
+		"bottom_text":""
+	},
+	"clsplk":{
+		"name":"Tritsch Tratsch Polka",
+		"original_name":"トリッチトラッチポルカ",
+		"bottom_text":""
+	},
+	"clstic":{
+		"name":"Chikochiko",
+		"original_name":"千鼓千鼓",
+		"bottom_text":""
+	},
+	"clsdog":{
+		"name":"Puchipochi",
+		"original_name":"プチポチ",
+		"bottom_text":""
+	},
+	"butumo":{
+		"name":"Animal Crossing New Leaf Medley",
+		"original_name":"とびだせ どうぶつの森 メドレー",
+		"bottom_text":""
+	},
+	"dhero4":{
+		"name":"Dragon Ball Heroes",
+		"original_name":"ドラゴンボールヒーローズ",
+		"bottom_text":"God Mission Series Theme Song"
+	},
+	"klbala":{
+		"name":"Baladium's drive",
+		"original_name":"",
+		"bottom_text":"Klonoa: Door to Phantomile"
+	},
+	"yokai":{
+		"name":"Yokai Dochuuki Ondo",
+		"original_name":"妖怪道中記音頭",
+		"bottom_text":""
+	},
+	"calib":{
+		"name":"Soul Calibur II",
+		"original_name":"ソウルキャリバーⅡ",
+		"bottom_text":"~Brave Sword, Braver Soul~"
+	},
+	"ac2nad":{
+		"name":"Night And Day",
+		"original_name":"",
+		"bottom_text":"From \" Ace Combat 2 \""
+	},
+	"moji":{
+		"name":"Mojipittan Medley",
+		"original_name":"もじぴったんメドレー",
+		"bottom_text":""
+	},
+	"lvx":{
+		"name":"Lovely-X",
+		"original_name":"ラブリーX",
+		"bottom_text":""
+	},
+	"oubu":{
+		"name":"Knuckle Heads",
+		"original_name":"ナックルヘッズ",
+		"bottom_text":"From \" Knuckle Heads \""
+	},
+	"mapp8b":{
+		"name":"Picopico Mappy",
+		"original_name":"ピコピコ マッピー",
+		"bottom_text":"From \" Mappy Medley x Prof. Sakamoto \""
+	},
+	"rr42":{
+		"name":"BLUE TOPAZ",
+		"original_name":"",
+		"bottom_text":"From \" Rave Racer \""
+	},
+	"eatem":{
+		"name":"EAT'EM UP!",
+		"original_name":"",
+		"bottom_text":"From \" R4 -RIDGE RACER TYPE4- \""
+	},
+	"toabs":{
+		"name":"Tales of the Abyss",
+		"original_name":"テイルズ オブ ジ アビス",
+		"bottom_text":"The arrow was shot"
+	},
+	"momoi":{
+		"name":"Wonder Momoi",
+		"original_name":"ワンダーモモーイ",
+		"bottom_text":""
+	},
+	"mblood":{
+		"name":"Koi wa Mizuiro",
+		"original_name":"恋はみずいろ",
+		"bottom_text":"From \" Mizuiro Blood \""
+	},
+	"genpe":{
+		"name":"KAGEKIYO",
+		"original_name":"",
+		"bottom_text":"～Genpei Toma Den Medley～"
+	},
+	"rt2wit":{
+		"name":"Where is the Target?",
+		"original_name":"",
+		"bottom_text":"From \" Rolling Thunder 2 \""
+	},
+	"wiu3op":{
+		"name":"Issho ni Asobo♪",
+		"original_name":"いっしょにあそぼ♪",
+		"bottom_text":""
+	},
+	"cs3op":{
+		"name":"Kyou wa Taiko-youbi",
+		"original_name":"きょうはたいこ曜日",
+		"bottom_text":"Taiko no Tatsujin Appare! Sandaime theme song"
+	},
+	"3dsop":{
+		"name":"Kimi to Hibiku Harmony",
+		"original_name":"キミと響くハーモニー",
+		"bottom_text":""
+	},
+	"inuhoe":{
+		"name":"Inu Hoeru",
+		"original_name":"犬吠える",
+		"bottom_text":""
+	},
+	"ika":{
+		"name":"Atashi Ikasama Koi wa Ikasama",
+		"original_name":"あたしイカサマ恋はイカサマ",
+		"bottom_text":""
+	},
+	"sqr":{
+		"name":"Sports Digestdon",
+		"original_name":"スポーツダイジェスドン",
+		"bottom_text":""
+	},
+	"deathm":{
+		"name":"Many wow bang!",
+		"original_name":"",
+		"bottom_text":""
+	},
+	"mi5ufo":{
+		"name":"Maigo no UFO",
+		"original_name":"迷子のUFO",
+		"bottom_text":""
+	},
+	"amanda":{
+		"name":"Amanda",
+		"original_name":"",
+		"bottom_text":""
+	},
+	"shugkt":{
+		"name":"Shugaku Travelers",
+		"original_name":"シューガク トラベラーズ",
+		"bottom_text":"Yuka Uchiyae"
+	},
+	"androm":{
+		"name":"Nagisa no Andromeda",
+		"original_name":"渚のアンドロメダ",
+		"bottom_text":""
+	},
+	"angel2":{
+		"name":"Kaze no Fantasy",
+		"original_name":"風のファンタジー",
+		"bottom_text":""
+	},
+	"ymyrp3":{
+		"name":"Kathiawar no Cutlass",
+		"original_name":"カッティアワールの宝剣",
+		"bottom_text":""
+	},
+	"gashad":{
+		"name":"Gashadokuro",
+		"original_name":"がしゃどくろ",
+		"bottom_text":""
+	},
+	"mahojn":{
+		"name":"Mahoujin -Summon Delta-",
+		"original_name":"魔方陣 ‐サモン・デルタ‐",
+		"bottom_text":""
+	},
+	"butou2":{
+		"name":"Shin Garyoutensei",
+		"original_name":"真・画竜点睛",
+		"bottom_text":""
+	},
+	"struin":{
+		"name":"Sacred Ruin ",
+		"original_name":"セイクリッド ルイン",
+		"bottom_text":""
+	},
+	"oyasik":{
+		"name":"Meena no Oyashiki",
+		"original_name":"ミーナのおやしき",
+		"bottom_text":""
+	},
+	"hayabu":{
+		"name":"Hayabusa",
+		"original_name":"隼",
+		"bottom_text":""
+	},
+	"ds2bs3":{
+		"name":"Yami no Tamashii",
+		"original_name":"闇の魂",
+		"bottom_text":""
+	},
+	"yugen":{
+		"name":"Yuugen no Ran",
+		"original_name":"幽玄ノ乱",
+		"bottom_text":""
+	},
+	"kecha":{
+		"name":"Kechadon 2000",
+		"original_name":"ケチャドン2000",
+		"bottom_text":""
+	},
+	"10jiku":{
+		"name":"Tenjiku 2000",
+		"original_name":"てんぢく2000",
+		"bottom_text":""
+	},
+	"nrdn2k":{
+		"name":"Norudon 2000",
+		"original_name":"ノるどん2000",
+		"bottom_text":""
+	}
+}
